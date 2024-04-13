@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "Fire Login-fotor-bg-remover-2024041318821.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "Fire Login-fotor-bg-remover-2024041318821 1.png",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "Fire Login-fotor-bg-remover-2024041318821 2.png",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleURLTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+			<key>CFBundleURLName</key>
+			<string>Firebase</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>app-1-861483916636-ios-35c07b3bff9221e18f3599</string>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>
